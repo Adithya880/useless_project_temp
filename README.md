@@ -68,7 +68,7 @@ Another spicy output: red flag rating, breakup odds, and an emotionally unavaila
 # Video
 DEMO 
 Showing the basic demo
-<video controls src="breakup-predictor/screenshots/video.mp4" title="Breakup Predictor"></video>
+<video controls src="breakupredictor/screenshots/video.mp4" title="Breakup Predictor"></video>
 Made with ❤ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
