@@ -6,8 +6,8 @@
 ### Team Name:TEAM-2
 
 ### Team Members
-- Team Lead:ADITHYA SURESH-SCTCE TVM
-- Member 2:NANDANA V-SCTCE TVM
+- Team Lead: ADITHYA SURESH-SCTCE TVM
+- Member 2: NANDANA V-SCTCE TVM
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -53,13 +53,14 @@ python app.py
 For Software:
 
 # Screenshots (Add at least 3)
-[alt text](breakup-predictor/screenshots/homepage.png)
+
+![home_page](breakupredictor/screenshots/homepage.jpg)
 Landing page of Breakup Predictor — inviting you to upload your heartbreak in JPEG format and get roasted by an AI that has no chill. 
 
+![output 1](image-1.png)
+![output 2](image-2.png)
 Sample result from image upload — the AI gives you a breakup probability, detects red flags, and delivers a sarcastic roast you didn’t know you needed
-![alt text](breakup-predictor/screenshots/output-result2.jpg)
 
-![alt text](breakup-predictor/screenshots/output-result3.jpg)
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 Another spicy output: red flag rating, breakup odds, and an emotionally unavailable AI with strong opinions about your love life.
