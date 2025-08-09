@@ -53,15 +53,15 @@ python app.py
 For Software:
 
 # Screenshots (Add at least 3)
-[alt text](breakup-predictor/screenshots/homepage.png)
+[home page](breakup-predictor/screenshots/homepage.png)
 Landing page of Breakup Predictor — inviting you to upload your heartbreak in JPEG format and get roasted by an AI that has no chill. 
 
 Sample result from image upload — the AI gives you a breakup probability, detects red flags, and delivers a sarcastic roast you didn’t know you needed
-![alt text](breakup-predictor/screenshots/output-result2.jpg)
+![output 1](breakup-predictor/screenshots/output-result2.jpg)
 
-![alt text](breakup-predictor/screenshots/output-result3.jpg)
+![output 2](breakup-predictor/screenshots/output-result3.jpg)
+
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
 Another spicy output: red flag rating, breakup odds, and an emotionally unavailable AI with strong opinions about your love life.
 
 ### Project Demo
