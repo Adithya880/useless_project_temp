@@ -57,8 +57,8 @@ For Software:
 ![home_page](breakupredictor/screenshots/homepage.jpg)
 Landing page of Breakup Predictor — inviting you to upload your heartbreak in JPEG format and get roasted by an AI that has no chill. 
 
-![output 1](image-1.png)
-![output 2](image-2.png)
+![output 1](breakupredictor/screenshots/output-result2.jpg)
+![output 2](breakupredictor/screenshots/output-result3.jpg)
 Sample result from image upload — the AI gives you a breakup probability, detects red flags, and delivers a sarcastic roast you didn’t know you needed
 
 # Diagrams
