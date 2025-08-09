@@ -10,7 +10,6 @@
 - Member 2: NANDANA V-SCTCE TVM
 
 ### Project Description
-[2-3 lines about what your project does]
 Breakup Predictor: the tool nobody needed, but everyone’s secretly curious about. Upload a chat or drop a text — we’ll serve up a breakup score, a savage response, and a few red flags you didn’t ask for.
 
 
@@ -19,6 +18,7 @@ People have too much emotional clarity in relationships. What they really need i
 
 ### The Solution (that nobody asked for)
 By feeding your conversations to an emotionally unavailable AI, we predict your love life's doom — complete with a breakup probability, flag color ratings, and roasted life advice. Because therapy is too expensive, but this is free (and way meaner).
+
 ## Technical Details
 ### Technologies/Components Used
 For Software:
@@ -62,7 +62,6 @@ Landing page of Breakup Predictor — inviting you to upload your heartbreak in 
 Sample result from image upload — the AI gives you a breakup probability, detects red flags, and delivers a sarcastic roast you didn’t know you needed
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
 Another spicy output: red flag rating, breakup odds, and an emotionally unavailable AI with strong opinions about your love life.
 
 ### Project Demo
